@@ -11,8 +11,8 @@
 
 	<properties>
 		<javax.servlet-api.version>3.0.1</javax.servlet-api.version>
-		<junit.version>4.11</junit.version>
-		<log4j.version>2.0.2</log4j.version>
+		<junit.version>4.13.1</junit.version>
+		<log4j.version>2.13.3</log4j.version>
 		<mockito.version>1.9.5</mockito.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.hateoas.version>0.16.0.RELEASE</spring.hateoas.version>
